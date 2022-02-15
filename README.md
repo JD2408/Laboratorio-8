@@ -85,6 +85,9 @@ Los valores de los voltajes no coinciden ya que al medir voltaje con un oscilosc
 
 
 ## 5. VIDEO
+
+- https://youtu.be/m-DqQhMggJQ
+
 ## 6. CONCLUSIONES
 1. Existen cuatro valores notables en ondas senoidales: el valor pico,
 pico-pico, medio y eficaz o RMS. 
