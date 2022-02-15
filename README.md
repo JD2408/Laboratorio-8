@@ -27,33 +27,62 @@ Determinar experimentalmente las características de señales senoidales.
 - 1 Resistor de 2.2 kΩ
 - 1 Protoboard
 
+*Procedimiento*
+
+Armar el circuito siguiendo el diagrama
+
+[![gr0.png](https://i.postimg.cc/bYMGBWvn/gr0.png)](https://postimg.cc/Rq7V3PKC)
+
+Circuito armado
+
+[![gr1.png](https://i.postimg.cc/ZRWN9SRT/gr1.png)](https://postimg.cc/HcCnKFXK)
+
+Coneccion del osciloscopio 
+
+[![gr2.png](https://i.postimg.cc/ZqCnHLhH/gr2.png)](https://postimg.cc/Y4BtqY0L)
+
+Coneccion del multimetro
+
+[![gr3.png](https://i.postimg.cc/vZnSVJ4t/gr3.png)](https://postimg.cc/rD8J6YCD)
 
 
 ## 4. RESPUESTA A INTERROGANTES
+
+[![gr4.png](https://i.postimg.cc/zXDk5VZh/gr4.png)](https://postimg.cc/MX4BmZGZ)
+
 1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
+2.3 cuadros
 
 2. ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
+3 voltios
+
 3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+4 cuadrados
 
 4. ¿En qué valor está posicionada la perilla TIME/DIV?
 
+en la de 0.1ms
+
 5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
-Amplitud de voltaje: ____________(V)
-Periodo: ____________(s)
+Amplitud de voltaje: 6.91(V)
+Periodo: Valor de la perilla time/div * cuadritos de un ciclo = 0.1 * 4 = 0.4 ms
 
 6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
-f: _____________(Hz)
-ω: ____________(rad/s)
+f:2500(Hz)
+ω: 15707.96(rad/s)
 
-7. Con el multímetro digital mida el voltaje de salida en RL: _______________
-
+7. Con el multímetro digital mida el voltaje de salida en RL: 4.896 V
 
 8. Compare el voltaje medido en el punto 5 y el obtenido en el punto 7
 ¿Coinciden?¿Por qué?
+
+Los valores de los voltajes no coinciden ya que al medir voltaje con un osciloscopio, mide valores instantaneos en un tiempo determinado, siendo el valor pico el maximo que este alcanza y al medir con el multimetro lo que se mide es el voltaje RMS que es el voltaje eficaz.
+
 
 ## 5. VIDEO
 ## 6. CONCLUSIONES
