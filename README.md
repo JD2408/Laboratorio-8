@@ -16,6 +16,7 @@ Determinar experimentalmente las características de señales senoidales.
 
 ## 2. MARCO TEÓRICO
 
+![Diagrama en blanco (23)](https://user-images.githubusercontent.com/94129932/154074317-f18d1378-729c-4749-9ec8-4e07fcb57df7.png)
 
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -56,4 +57,10 @@ f: _____________(Hz)
 
 ## 5. VIDEO
 ## 6. CONCLUSIONES
+1. Existen cuatro valores notables en ondas senoidales: el valor pico,
+pico-pico, medio y eficaz o RMS. 
+2. La corriente alterna (como su nombre lo indica) circula por durante un tiempo en un sentido y después en sentido opuesto, volviéndose a repetir el mismo proceso en forma constante
+3. Existen diversas clases de errores, que se cometen en simultáneo cuando se realizan procesos de medición en una experiencia, que constituyen las principales causas que originan las discrepancias entre los valores teóricos y los experimentales. 
 ## 7. BIBLIOGRAFÍA
+- Ondas senoidales. (s. f.). Ondas senoidales. Recuperado 15 de febrero de 2022, de http://www.iessierradeguara.com/documentos/departamentos/tecnologia/electrotecnia/ARCHIVOS/TEORIA/elec_ondas_senoidales_cal.pdf
+- Características de la onda senoidal. (s. f.). Características de la onda senoidal. Recuperado 15 de febrero de 2022, de https://1library.co/document/zpxg714q-caracteristicas-de-la-onda-senoidal-pdf.html
